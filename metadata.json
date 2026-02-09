@@ -1,0 +1,10 @@
+
+{
+  "name": "LuxeEstate Global - Premium Real Estate Demo",
+  "description": "A high-end, modern real estate platform designed for international property businesses, featuring property listings, agent profiles, and seamless inquiry management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
