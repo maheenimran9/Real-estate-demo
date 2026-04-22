@@ -38,7 +38,7 @@ export const properties: Property[] = [
   },
   {
     id: '3',
-    title: 'Metropolitan Sky Penthouse',
+    title: 'Metrop olitan Sky Penthouse',
     type: 'Penthouse',
     status: 'For Sale',
     price: 3200000,

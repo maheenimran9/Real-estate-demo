@@ -73,9 +73,7 @@ const Footer: React.FC = () => {
             </div>
           </div>
           
-          <div className="text-[#B6AE9F] text-[11px] lg:text-[12px] font-black uppercase tracking-[0.5em] lg:tracking-[0.6em] mt-2 border-t border-white/5 pt-8 w-full text-center">
-            Developed & Designed | Powered by Maheen
-          </div>
+          
         </div>
       </div>
     </footer>
